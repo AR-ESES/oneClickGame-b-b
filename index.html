@@ -137,7 +137,7 @@
                     })
                 }
 
-                if (bX + bird.width >= pipe[i].x && bX <= pipe[i].x + pipeNorth.width
+                if (bX + tartaruga.width >= pipe[i].x && bX <= pipe[i].x + pipeNorth.width
                     && (bY <= pipe[i].y + pipeNorth.height || bY + bird.height >= pipe[i].y + constant)
                     || bY + bird.height >= stage.height - fg.height) {
                     game_over();
@@ -154,7 +154,7 @@
 
 
             ctx.drawImage(fg, 0, stage.height - fg.height);
-            var bd = ctx.drawImage(bird, bX, bY);
+            var bd = ctx.drawImage(tartaruga, bX, bY);
 
             bY += gravity;
 
