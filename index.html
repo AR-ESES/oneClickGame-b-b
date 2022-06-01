@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Flappy Bird</title>
+    <title>Susie A Tartaruga</title>
     <style>
         @font-face {
-            font-family: "Flappy";
-            src: url("fonte/flappy.ttf");
+            font-family: "Susie";
+            src: url("fonte/Comfortaa-VariableFont_wght.ttf");
         }
 
         #game_over {
@@ -18,7 +18,7 @@
             padding-top: 10px;
             border-radius: 10px;
             box-shadow: 2px 1px 12px black;
-            font-family: Flappy;
+            font-family: Comfortaa-VariableFont_wght;
             font-size: 40px;
             color: black;
             width: 250px;
@@ -44,17 +44,15 @@
         var stage = document.getElementById("stage");
         var ctx = stage.getContext("2d");
 
-        var bird = new Image();
-        var bg = new Image();
-        var fg = new Image();
-        var pipeNorth = new Image();
-        var pipeSouth = new Image();
+        var tartaruga = new Image();
+        var c = new Image();
+        var b = new Image();
+        var Fundo = new Image();
 
-        bird.src = "img/bird.png";
-        bg.src = "img/bg.png";
-        fg.src = "img/fg.png";
-        pipeNorth.src = "img/pipeNorth.png";
-        pipeSouth.src = "img/pipeSouth.png";
+        tartaruga.src = "img/tartaruga.png";
+        b.src = "img/b.png";
+        c.src = "img/c.png";
+        Fundo.src = "img/Fundo.png";
 
         var continua = true;
         var gap = 85;
