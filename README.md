@@ -13,13 +13,17 @@ Foi realizado também um vídeo de promoção do nosso jogo onde tivemos a parti
 
 ### Animação
 [Ganhaste][(https://scratch.mit.edu/projects/696237205)]
+
 [Perdeste][(https://scratch.mit.edu/projects/696276160)]
 
 ### Elementos Promocionais
 
 [Tshirts][(https://www.canva.com/design/DAFC9z6lWWg/21Px433b2ac4-MeDPZje6g/view?utm_content=DAFC9z6lWWg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+
 [Autocolantes](https://www.canva.com/design/DAFBtHCWCwg/dIzuNMhDAdRobx6mhXqr1w/view?utm_content=DAFBtHCWCwg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Vídeo Promocional 1](https://youtu.be/C0D-ydBI8h4)
+
 [Vídeo Promocional 2](https://youtu.be/9JgRxVaorAg)
 
 Docentes: André Rocha e José Manuel Soares
