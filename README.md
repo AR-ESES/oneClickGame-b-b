@@ -28,8 +28,12 @@ Foi realizado também um vídeo de promoção do nosso jogo onde tivemos a parti
 [Vídeo Promocional 2](https://youtu.be/9JgRxVaorAg)
 
 Docentes: André Rocha e José Manuel Soares
+
 Discentes: Beatriz Barbosa || 200200183 e Beatriz Namora || 200200196
+
 U.C.: Design Multimédia
+
 LPME_2
+
 Ano Letivo 2021/2022
 
