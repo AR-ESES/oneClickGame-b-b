@@ -9,16 +9,17 @@ Este é um jogo simples para quem joga, mas apelativo graças ao seu aspeto e à
 Foi realizado também um vídeo de promoção do nosso jogo onde tivemos a participação especial de várias crianças e que o objetivo deste vídeo era demonstrar o quão divertido pode ser jogar o jogo e que se podem realizar competições saudáveis entre colegas para ver quem consegue acabar o jogo mais vezes. 
 
 ### Design do jogo
-[Design][(https://www.canva.com/design/DAFAYHX0en4/gCDqKWKapuzFULedXT8VFA/view?utm_content=DAFAYHX0en4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[Design](https://www.canva.com/design/DAFAYHX0en4/gCDqKWKapuzFULedXT8VFA/view?utm_content=DAFAYHX0en4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Animação
-[Ganhaste][(https://scratch.mit.edu/projects/696237205)]
+[Ganhaste](https://scratch.mit.edu/projects/696237205)
 
-[Perdeste][(https://scratch.mit.edu/projects/696276160)]
+[Perdeste](https://scratch.mit.edu/projects/696276160) 
+
 
 ### Elementos Promocionais
 
-[Tshirts][(https://www.canva.com/design/DAFC9z6lWWg/21Px433b2ac4-MeDPZje6g/view?utm_content=DAFC9z6lWWg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[Tshirts](https://www.canva.com/design/DAFC9z6lWWg/21Px433b2ac4-MeDPZje6g/view?utm_content=DAFC9z6lWWg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [Autocolantes](https://www.canva.com/design/DAFBtHCWCwg/dIzuNMhDAdRobx6mhXqr1w/view?utm_content=DAFBtHCWCwg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
