@@ -6,7 +6,7 @@
 Este jogo, realizado por Beatriz Barbosa e Beatriz Namora, tem como objetivo ajudar a coordenação motora de qualquer pessoa, mas essencialmente das crianças uma vez que o objetivo deste mesmo é fazer com que a Susie atravesse todos os 30 tubos clicando no botão do espaço do teclado do computador. Se conseguirem acabar, aparecerá uma mensagem a felicitar o jogador, mas, pelo contrário, se não conseguirem terminar irá aparecer uma mensagem a avisar que o jogador perdeu, mas pode voltar a jogar e tentar acabar o jogo.
 Este é um jogo simples para quem joga, mas apelativo graças ao seu aspeto e à sua protagonista, Susie a Tartaruga.
 
-Foi realizado também um vídeo de promoção do nosso jogo onde tivemos a participação especial de várias crianças e que o objetivo deste vídeo era demonstrar o quão divertido pode ser jogar o jogo e que se podem realizar competições saudáveis entre colegas para ver quem consegue acabar o jogo mais vezes. 
+Foram realizados também dois vídeos de promoção do nosso jogo onde tivemos a participação especial de várias crianças e que o objetivo deste vídeo era demonstrar o quão divertido pode ser jogar o jogo e que se podem realizar competições saudáveis entre colegas para ver quem consegue acabar o jogo mais vezes. 
 
 ### Design do jogo
 [Design](https://www.canva.com/design/DAFAYHX0en4/gCDqKWKapuzFULedXT8VFA/view?utm_content=DAFAYHX0en4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
