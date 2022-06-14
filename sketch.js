@@ -89,7 +89,7 @@ class Pipes {
 
 }
 
-var bird = new Tartaruga (WIDTH / 2, HEIGHT / 2, 30);
+var tartaruga = new Tartaruga (WIDTH / 2, HEIGHT / 2, 30);
 var pipes = new Pipes(60, 150, 130);
 
 
