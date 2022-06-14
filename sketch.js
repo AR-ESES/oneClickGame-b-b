@@ -98,9 +98,9 @@ function draw() {
   fill("#7cfc00");
   rect(0, HEIGHT - GROUND_HEIGHT, WIDTH, HEIGHT);
 
-  bird.draw();
-  bird.update();
-  bird.checkDeath(pipes);
+  tartaruga.draw();
+  tartaruga.update();
+  tartaruga.checkDeath(pipes);
 
   pipes.update();
   pipes.drawPipes();
